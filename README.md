@@ -7,7 +7,7 @@ I usally build cool, interesting discord bots for fun and for learning using dis
 
 - 🔭 I’m currently working on discord invite manager with [vihang](https://github.com/noob-dev69)
 - 🌱 I’m currently learning Discord.js
-- 📫 You can find me on [discord](https://discord.gg/nadeofficialop) -         [instagram](https://instagram.com/ig_zerosenpa1_69?igshid=esqes5hrtttj)
+- 📫 You can find me on [discord](https://discord.gg/wSXKYMtf) -         [instagram](https://instagram.com/ig_zerosenpa1_69?igshid=esqes5hrtttj)
  
 ---
 
