@@ -9,6 +9,9 @@ I usally build cool, interesting discord bots for fun and for learning using dis
 - 🌱 I’m currently learning Discord.js
 - 📫 You can find me on [discord](https://discord.gg/bv8wsJKn) -         [instagram](https://instagram.com/ig_zerosenpa1_69?igshid=esqes5hrtttj)
  
+ 
+### Top Spotify Picks For You 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ZEROO's Spotify Playing" width="360" />](https://open.spotify.com/user/31pmhc3yz6jtbjftyqf7ewdvwcnm)
 ---
 
 <p align="center">
