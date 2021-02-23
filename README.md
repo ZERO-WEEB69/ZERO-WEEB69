@@ -1,6 +1,8 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2021/02/05/vBpEJysHbu4hKPS.jpg)
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
+![Discord](https://discord.c99.nl/widget/theme-2/753982168212176956.png)
+
 Hi there, thanks for stopping by, this is **Zero** from **Kolkata,India**.
 
 I usally build cool, interesting discord bots for fun and for learning using discord.js and java, welcome to scroll down to explore [my repos](https://github.com/ZERO-WEEB69), maybe you will love them. 🤍🌹
